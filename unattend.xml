@@ -48,7 +48,7 @@
 			<UserAccounts>
 				<LocalAccounts>
 					<LocalAccount wcm:action="add">
-						<Name>Admin</Name>
+						<Name>sam</Name>
 						<DisplayName></DisplayName>
 						<Group>Administrators</Group>
 						<Password>
